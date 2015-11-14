@@ -1,0 +1,5 @@
+TFIDF和cos相似度原理的简单介绍：http://www.ruanyifeng.com/blog/2013/03/tf-idf.html（简单易懂）
+https://github.com/faruken/tfidf/tree/master/src/test/org/akgul/tfidf
+http://xwrwc.blog.163.com/blog/static/46320003201010634132451/
+
+
